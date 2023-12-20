@@ -1,6 +1,6 @@
 # App-Clima
 
-![](.Capturar.png)
+![](.Capturar.PNG)
 
 ---
 ##Sobre
